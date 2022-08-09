@@ -1,0 +1,11 @@
+git config --list
+git config --global user.email "email Address"
+git config --global user.name "username"
+
+
+git add .
+
+3 state :   
+  1> Untracked unstages
+  1> tracked stages
+  1> commited
