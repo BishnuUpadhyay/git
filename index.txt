@@ -3,9 +3,16 @@ git config --global user.email "email Address"
 git config --global user.name "username"
 
 
-git add .
+     
+       
+
 
 3 state :   
-  1> Untracked unstages
-  1> tracked stages
-  1> commited
+  1> Untracked unstages  =>    git status
+  1> tracked stages =>   git add .
+  1> commited =>   git commit -m "Commit Message"
+
+
+  show all  git details   =>  git log
+
+  
