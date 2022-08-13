@@ -15,4 +15,16 @@ git config --global user.name "username"
 
   show all  git details   =>  git log
 
-  
+      to update git 
+  git remot set-url origin 'url'
+
+
+check branch
+git branch
+
+  create branch 
+  git checkout -b 'bishnu/add-new-info'
+
+
+  switch branch
+  git checkout main
